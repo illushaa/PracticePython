@@ -8,6 +8,8 @@
 
 ![изображение](https://user-images.githubusercontent.com/86985532/125201116-6137d780-e276-11eb-90ab-f42aa2bdfd74.png)
 
+![изображение](https://user-images.githubusercontent.com/86985532/125203214-3f435280-e280-11eb-826a-729913ee0f8c.png)
+
 # Task0
 
 ## Робочий код
