@@ -1,4 +1,5 @@
 import re
+
 str = input("Введіть рядок: ")
 numb = re.findall(r'\d+', str)
 str = re.sub(r"\d+", "", str, flags=re.UNICODE)
@@ -13,8 +14,7 @@ print( " " + result[:-1])
 max_numb = max(numb)
 print("\n Максимальне число в масиві:", max_numb)
 arr_vals = []
-for i in range(len(numb)):
-    
+for i in range(len(numb)): 
     if i !=numb.index(max_numb):
         temp = numb[i] 
         stup=temp** i

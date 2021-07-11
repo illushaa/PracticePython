@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a67c50f-eb47-411a-ac9e-7b48c22c6c9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/task_0.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4a67c50f-eb47-411a-ac9e-7b48c22c6c9c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626017785311</updated>
-      <workItem from="1626017786593" duration="1119000" />
+      <workItem from="1626017786593" duration="1963000" />
     </task>
     <servers />
   </component>
